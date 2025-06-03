@@ -282,6 +282,107 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_hDpU6C": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_AVgFtx": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_8LjADT": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_r9XByR": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_DPKPaQ": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_HfBXzg": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_P7Qjna": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_Ndw7EG": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_LThQdA": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_HnftDc": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_pbyKBE": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_8KXYby": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_AVgFtx",
+        "title_8LjADT",
+        "badges_r9XByR",
+        "price_DPKPaQ",
+        "rating_HfBXzg",
+        "separator_P7Qjna",
+        "description_Ndw7EG",
+        "variant_picker_LThQdA",
+        "quantity_selector_HnftDc",
+        "buy_buttons_pbyKBE",
+        "pickup_availability_8KXYby"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "oreiller-de-voyage-flyaura",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -291,6 +392,7 @@
     "image_with_text_overlay_i6nUmP",
     "rich_text_pKPMFd",
     "video_WU8TwE",
-    "multi_column_wQV9nA"
+    "multi_column_wQV9nA",
+    "featured_product_hDpU6C"
   ]
 }
