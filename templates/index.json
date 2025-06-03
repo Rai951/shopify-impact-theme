@@ -108,10 +108,37 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_nkrqek": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Uffxec": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir FlyAura ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Uffxec"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
-    "logo_list_9ymY4P"
+    "logo_list_9ymY4P",
+    "rich_text_nkrqek"
   ]
 }
