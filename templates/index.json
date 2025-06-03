@@ -446,12 +446,21 @@
             "content": "<p>Livraison offerte sous 5 à 8 jours ouvrés, où que vous soyez.</p>",
             "page": ""
           }
+        },
+        "tab_DJVNWE": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7j/7",
+            "content": "<p>Une équipe à votre écoute, tous les jours, même le week-end.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_fkbdBn",
         "tab_GhDaFV",
-        "tab_mJUYkM"
+        "tab_mJUYkM",
+        "tab_DJVNWE"
       ],
       "name": "Tabs",
       "settings": {
