@@ -22,7 +22,7 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Arrivez détendu & relaxé",
-            "heading_tag": "h3",
+            "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -56,7 +56,7 @@
         "logo_RVAkac": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/FlyAuraaaa.png",
+            "logo": "shopify://shop_images/6.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +64,7 @@
         "logo_erbTnC": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/8.png",
             "logo_width": 120,
             "link": ""
           }
@@ -71,6 +72,7 @@
         "logo_jL6jCf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/9.png",
             "logo_width": 120,
             "link": ""
           }
@@ -78,6 +80,7 @@
         "logo_yaEqDD": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/7.png",
             "logo_width": 120,
             "link": ""
           }
