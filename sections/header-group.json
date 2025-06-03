@@ -30,7 +30,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#2c3436",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -39,7 +39,7 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": false,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/FlyAuraaaa.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
