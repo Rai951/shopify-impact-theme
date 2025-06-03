@@ -53,18 +53,18 @@
     "logo_list_9ymY4P": {
       "type": "logo-list",
       "blocks": {
-        "logo_RVAkac": {
+        "logo_yaEqDD": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/6.png",
+            "logo": "shopify://shop_images/7.png",
             "logo_width": 120,
             "link": ""
           }
         },
-        "logo_erbTnC": {
+        "logo_RVAkac": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/8.png",
+            "logo": "shopify://shop_images/6.png",
             "logo_width": 120,
             "link": ""
           }
@@ -77,20 +77,20 @@
             "link": ""
           }
         },
-        "logo_yaEqDD": {
+        "logo_erbTnC": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/7.png",
+            "logo": "shopify://shop_images/8.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
+        "logo_yaEqDD",
         "logo_RVAkac",
-        "logo_erbTnC",
         "logo_jL6jCf",
-        "logo_yaEqDD"
+        "logo_erbTnC"
       ],
       "name": "Logo list",
       "settings": {
