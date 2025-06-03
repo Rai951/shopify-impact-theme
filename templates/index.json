@@ -247,13 +247,27 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_qcfnqV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image-ezgif.com-crop_423734ad-b64c-4386-9179-058874531e37.webp",
+            "column_size": "3",
+            "title": "Sofiane B.",
+            "heading_tag": "h4",
+            "content": "<p>Je ne m’attendais pas à autant de confort pour un format aussi petit.<br/>Il se glisse facilement dans mon sac à dos, et pourtant il soutient parfaitement ma tête. C’est devenu mon indispensable pour chaque trajet.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_gQMx4f",
         "item_pTWGi7",
         "item_TCMWHJ",
-        "item_3hqgHF"
+        "item_3hqgHF",
+        "item_qcfnqV"
       ],
       "name": "Multi-column",
       "settings": {
