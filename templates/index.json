@@ -151,12 +151,55 @@
         "overlay_color": "#000000",
         "overlay_opacity": 6
       }
+    },
+    "rich_text_pKPMFd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UxwYgP": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_UxwYgP"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_WU8TwE": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/VideoAvantapres.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 6
+      }
     }
   },
   "order": [
     "slideshow",
     "logo_list_9ymY4P",
     "rich_text_nkrqek",
-    "image_with_text_overlay_i6nUmP"
+    "image_with_text_overlay_i6nUmP",
+    "rich_text_pKPMFd",
+    "video_WU8TwE"
   ]
 }
