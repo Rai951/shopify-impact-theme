@@ -419,6 +419,53 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_hRYftc": {
+      "type": "tabs",
+      "blocks": {
+        "tab_fkbdBn": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>Léger, compact, maintien cervical 360°, mousse mémoire haute densité, tissu doux anti-irritation.</p>",
+            "page": ""
+          }
+        },
+        "tab_GhDaFV": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_mJUYkM": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_fkbdBn",
+        "tab_GhDaFV",
+        "tab_mJUYkM"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -429,6 +476,7 @@
     "rich_text_pKPMFd",
     "video_WU8TwE",
     "multi_column_wQV9nA",
-    "featured_product_hDpU6C"
+    "featured_product_hDpU6C",
+    "tabs_hRYftc"
   ]
 }
