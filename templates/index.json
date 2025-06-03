@@ -362,7 +362,7 @@
       ],
       "name": "Featured product",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "product": "oreiller-de-voyage-flyaura",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
