@@ -196,6 +196,19 @@
     "multi_column_wQV9nA": {
       "type": "multi-column",
       "blocks": {
+        "item_3hqgHF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image-ezgif.com-resize.webp",
+            "column_size": "3",
+            "title": "Marc",
+            "heading_tag": "h4",
+            "content": "<p><em>Je travaille souvent en voyage, et cet oreiller me suit partout. Il m’aide à me reposer entre deux réunions ou pendant les trajets. Le confort est impressionnant, et le sac de transport est vraiment pratique.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_TCMWHJ": {
           "type": "item",
           "settings": {
@@ -221,25 +234,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_3hqgHF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image-ezgif.com-resize.webp",
-            "column_size": "3",
-            "title": "Marc",
-            "heading_tag": "h4",
-            "content": "<p><em>Je travaille souvent en voyage, et cet oreiller me suit partout. Il m’aide à me reposer entre deux réunions ou pendant les trajets. Le confort est impressionnant, et le sac de transport est vraiment pratique.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
+        "item_3hqgHF",
         "item_TCMWHJ",
-        "item_pTWGi7",
-        "item_3hqgHF"
+        "item_pTWGi7"
       ],
       "name": "Multi-column",
       "settings": {
