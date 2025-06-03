@@ -234,12 +234,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_gQMx4f": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image-ezgif.com-crop_4.webp",
+            "column_size": "3",
+            "title": "Nicolas K.",
+            "heading_tag": "h3",
+            "content": "<p>Enfin un oreiller qui soutient vraiment la nuque !<br/>Ma mère a senti la différence dès le premier trajet. Plus aucune douleur à l’arrivée, juste du repos. On a même eu l’énergie de faire du shopping en arrivant !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_3hqgHF",
         "item_TCMWHJ",
-        "item_pTWGi7"
+        "item_pTWGi7",
+        "item_gQMx4f"
       ],
       "name": "Multi-column",
       "settings": {
