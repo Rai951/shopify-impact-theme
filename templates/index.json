@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BanniereFlyAura.jpg",
-            "mobile_image": "shopify://shop_images/BanniereFlyAura.jpg",
+            "image": "shopify://shop_images/FlyAuraAccueil.png",
+            "mobile_image": "shopify://shop_images/FlyAuraAccueil.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
