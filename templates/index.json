@@ -352,6 +352,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_gHrGYn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Coooopie_de_Template_section_benefice.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy_buttons_pbyKBE": {
           "type": "buy_buttons",
           "settings": {
@@ -359,7 +367,7 @@
             "show_gift_card_recipient": true,
             "atc_button_background": "#ff6b6b",
             "atc_button_text_color": "#2c3436",
-            "payment_button_background": "",
+            "payment_button_background": "#ffffff",
             "payment_button_text_color": ""
           }
         },
@@ -380,6 +388,7 @@
         "description_Ndw7EG",
         "variant_picker_LThQdA",
         "quantity_selector_HnftDc",
+        "image_gHrGYn",
         "buy_buttons_pbyKBE",
         "pickup_availability_8KXYby"
       ],
