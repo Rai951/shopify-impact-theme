@@ -53,6 +53,14 @@
     "logo_list_9ymY4P": {
       "type": "logo-list",
       "blocks": {
+        "logo_erbTnC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/aaaairfrnaceFlyAura.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_yaEqDD": {
           "type": "logo",
           "settings": {
@@ -76,21 +84,13 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_erbTnC": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/8.png",
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "logo_erbTnC",
         "logo_yaEqDD",
         "logo_RVAkac",
-        "logo_jL6jCf",
-        "logo_erbTnC"
+        "logo_jL6jCf"
       ],
       "name": "Logo list",
       "settings": {
