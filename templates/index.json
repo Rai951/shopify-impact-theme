@@ -371,6 +371,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_QYe4CR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_Temmmmmplate_section_benefice.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_8KXYby": {
           "type": "pickup_availability",
           "settings": {}
@@ -390,6 +398,7 @@
         "quantity_selector_HnftDc",
         "image_gHrGYn",
         "buy_buttons_pbyKBE",
+        "image_QYe4CR",
         "pickup_availability_8KXYby"
       ],
       "name": "Featured product",
