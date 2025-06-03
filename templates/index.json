@@ -190,7 +190,69 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 6
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_wQV9nA": {
+      "type": "multi-column",
+      "blocks": {
+        "item_TCMWHJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image-ezgif.com-crop_2.webp",
+            "column_size": "3",
+            "title": "Léna M.",
+            "heading_tag": "h4",
+            "content": "<p>J’avais toujours du mal à dormir en avion ou en train… Mais avec cet oreiller, c’est un vrai changement ! Il est tellement doux et confortable que je m’endors en quelques minutes. En plus, il se range super facilement dans mon sac. Un indispensable pour mes voyages !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pTWGi7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/flyhugz_neck_pillow_1.webp",
+            "column_size": "3",
+            "title": "Julien",
+            "heading_tag": "h4",
+            "content": "<p>Je prends l’avion toutes les semaines, et honnêtement, j’ai testé plein d’oreillers. Celui-ci est le seul qui m’évite les tensions après les vols. Il est compact, léger, et je peux enfin dormir sans me réveiller avec le cou bloqué.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3hqgHF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image-ezgif.com-resize.webp",
+            "column_size": "3",
+            "title": "Marc",
+            "heading_tag": "h4",
+            "content": "<p><em>Je travaille souvent en voyage, et cet oreiller me suit partout. Il m’aide à me reposer entre deux réunions ou pendant les trajets. Le confort est impressionnant, et le sac de transport est vraiment pratique.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_TCMWHJ",
+        "item_pTWGi7",
+        "item_3hqgHF"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -200,6 +262,7 @@
     "rich_text_nkrqek",
     "image_with_text_overlay_i6nUmP",
     "rich_text_pKPMFd",
-    "video_WU8TwE"
+    "video_WU8TwE",
+    "multi_column_wQV9nA"
   ]
 }
