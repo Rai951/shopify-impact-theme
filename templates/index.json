@@ -320,6 +320,14 @@
             "show_empty": false
           }
         },
+        "image_hrLJAC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_Template_section_benefi._ce.png",
+            "alignment": "center",
+            "max_width": 360
+          }
+        },
         "separator_P7Qjna": {
           "type": "separator",
           "settings": {}
@@ -338,14 +346,6 @@
             "selector_mode": "block",
             "color_mode": "color",
             "size_chart_page": ""
-          }
-        },
-        "image_hrLJAC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copie_de_Template_section_benefi._ce.png",
-            "alignment": "center",
-            "max_width": 360
           }
         },
         "quantity_selector_HnftDc": {
@@ -375,10 +375,10 @@
         "price_DPKPaQ",
         "liquid_PHijQA",
         "rating_HfBXzg",
+        "image_hrLJAC",
         "separator_P7Qjna",
         "description_Ndw7EG",
         "variant_picker_LThQdA",
-        "image_hrLJAC",
         "quantity_selector_HnftDc",
         "buy_buttons_pbyKBE",
         "pickup_availability_8KXYby"
