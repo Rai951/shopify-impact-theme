@@ -475,6 +475,59 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_9TnUQA": {
+      "type": "faq",
+      "blocks": {
+        "item_xTnQWQ": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que l’oreiller FlyAura soutient vraiment bien la tête ?",
+            "content": "<p>Oui, c’est justement sa force. Grâce à son maintien 360°, il empêche la tête de basculer (même sur le côté), ce qui évite les réveils avec la nuque raide ou douloureuse. Beaucoup de nos clients nous disent que c’est la première fois qu’ils dorment réellement en voyage.</p>"
+          }
+        },
+        "item_MaHV9N": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_dtBGgg": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xTnQWQ",
+        "item_MaHV9N",
+        "item_dtBGgg"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -486,6 +539,7 @@
     "video_WU8TwE",
     "multi_column_wQV9nA",
     "featured_product_hDpU6C",
-    "tabs_hRYftc"
+    "tabs_hRYftc",
+    "faq_9TnUQA"
   ]
 }
