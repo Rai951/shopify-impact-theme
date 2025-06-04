@@ -21,8 +21,8 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#ff6b6b",
-            "icon_color": "#2c3436",
+            "icon_background": "#2c3436",
+            "icon_color": "#ff6b6b",
             "title": "Livraison gratuite",
             "content": "<p>Tell your customers about your shipping offer.</p>"
           }
