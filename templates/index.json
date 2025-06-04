@@ -499,12 +499,20 @@
             "title": "Est-ce qu’il est adapté à tous les types de cou et de morphologies ?",
             "content": "<p>Absolument. Que vous ayez un cou fin ou plus large, l’oreiller s’adapte grâce à sa forme ergonomique et sa mousse mémoire de qualité. Il est utilisé aussi bien par des enfants que des adultes.</p>"
           }
+        },
+        "item_Np8DpE": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je n’ai jamais réussi à dormir en avion ?",
+            "content": "<p>C’est précisément pour ça qu’on l’a conçu. L’oreiller soulage la pression sur les cervicales et aide à relâcher les tensions musculaires. Résultat : votre corps lâche prise plus facilement, même en position assise.</p>"
+          }
         }
       },
       "block_order": [
         "item_xTnQWQ",
         "item_MaHV9N",
-        "item_dtBGgg"
+        "item_dtBGgg",
+        "item_Np8DpE"
       ],
       "name": "FAQ",
       "settings": {
