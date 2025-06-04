@@ -496,8 +496,8 @@
         "item_dtBGgg": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce qu’il est adapté à tous les types de cou et de morphologies ?",
+            "content": "<p>Absolument. Que vous ayez un cou fin ou plus large, l’oreiller s’adapte grâce à sa forme ergonomique et sa mousse mémoire de qualité. Il est utilisé aussi bien par des enfants que des adultes.</p>"
           }
         }
       },
