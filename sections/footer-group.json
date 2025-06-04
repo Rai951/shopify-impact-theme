@@ -118,7 +118,6 @@
         "links",
         "text"
       ],
-      "disabled": true,
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
