@@ -552,6 +552,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_z8NUk9": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#ff6b6b",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -564,6 +585,7 @@
     "multi_column_wQV9nA",
     "featured_product_hDpU6C",
     "tabs_hRYftc",
-    "faq_9TnUQA"
+    "faq_9TnUQA",
+    "contact_z8NUk9"
   ]
 }
