@@ -506,13 +506,29 @@
             "title": "Et si je n’ai jamais réussi à dormir en avion ?",
             "content": "<p>C’est précisément pour ça qu’on l’a conçu. L’oreiller soulage la pression sur les cervicales et aide à relâcher les tensions musculaires. Résultat : votre corps lâche prise plus facilement, même en position assise.</p>"
           }
+        },
+        "item_LD9C7z": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux le laver ?",
+            "content": "<p>Oui, la housse est amovible et lavable en machine (30°C). Elle reste douce et propre, même après plusieurs utilisations.</p>"
+          }
+        },
+        "item_yCECdE": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "item_xTnQWQ",
         "item_MaHV9N",
         "item_dtBGgg",
-        "item_Np8DpE"
+        "item_Np8DpE",
+        "item_LD9C7z",
+        "item_yCECdE"
       ],
       "name": "FAQ",
       "settings": {
