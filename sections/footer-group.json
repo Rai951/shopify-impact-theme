@@ -20,24 +20,24 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
+            "icon_background_type": "circle",
+            "icon_background": "#ff6b6b",
+            "icon_color": "#2c3436",
+            "title": "Livraison gratuite",
             "content": "<p>Tell your customers about your shipping offer.</p>"
           }
         },
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#ff6b6b",
+            "icon_color": "#2c3436",
+            "title": "Satisfait ou remboursé",
+            "content": ""
           }
         },
         "discount": {
@@ -73,7 +73,6 @@
         "discount",
         "payment"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
