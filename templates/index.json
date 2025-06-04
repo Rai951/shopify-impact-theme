@@ -517,8 +517,8 @@
         "item_yCECdE": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Entre 5 et 8 jours ouvrés. Et la livraison est totalement gratuite.</p>"
           }
         }
       },
