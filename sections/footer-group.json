@@ -59,11 +59,11 @@
             "icon": "picto-lock",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#ff6b6b",
+            "icon_color": "#2c3436",
+            "title": "Paiement sécurisé",
+            "content": ""
           }
         }
       },
