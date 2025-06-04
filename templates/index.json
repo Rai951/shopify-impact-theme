@@ -352,6 +352,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "moon_bundle_app_block_gmyBQ8": {
+          "type": "shopify://apps/moon-bundle/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "oreiller-de-voyage-flyaura"
+          }
+        },
         "image_gHrGYn": {
           "type": "image",
           "settings": {
@@ -396,6 +402,7 @@
         "description_Ndw7EG",
         "variant_picker_LThQdA",
         "quantity_selector_HnftDc",
+        "moon_bundle_app_block_gmyBQ8",
         "image_gHrGYn",
         "buy_buttons_pbyKBE",
         "image_QYe4CR",
