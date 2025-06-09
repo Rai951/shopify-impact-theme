@@ -562,6 +562,7 @@
     },
     "contact_z8NUk9": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
