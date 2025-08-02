@@ -174,15 +174,18 @@
         "text_color": ""
       }
     },
-    "video_WU8TwE": {
-      "type": "video",
+    "image_with_text_overlay_txktjL": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/ddDesign sans titre.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/avant-apres-femme-2.jpg",
+        "mobile_image": "shopify://shop_images/avant-apres-femme-2.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -611,7 +614,7 @@
     "rich_text_nkrqek",
     "image_with_text_overlay_i6nUmP",
     "rich_text_pKPMFd",
-    "video_WU8TwE",
+    "image_with_text_overlay_txktjL",
     "multi_column_wQV9nA",
     "featured_product_hDpU6C",
     "tabs_hRYftc",
