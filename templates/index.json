@@ -114,7 +114,7 @@
         "heading_Uffxec": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir FlyAura ?",
+            "text": "Pourquoi choisir GlowPatch Minceur ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -141,7 +141,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/44_benefices.png",
-        "mobile_image": "shopify://shop_images/44_benefices.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Templatglpatche_section_benefice.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
