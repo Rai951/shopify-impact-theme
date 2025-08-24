@@ -523,6 +523,13 @@
             "title": "Et si ça ne marche pas sur moi ?",
             "content": "<p>Nous sommes tellement confiants en GlowPatch que nous offrons une garantie satisfait ou remboursé de 30 jours. Si vous n'êtes pas pleinement satisfaite, nous vous remboursons intégralement, sans condition ni justification à fournir.</p>"
           }
+        },
+        "item_tXqtLN": {
+          "type": "item",
+          "settings": {
+            "title": "J'ai la peau sensible, est-ce adapté ?",
+            "content": "<p>Absolument ! Nos patchs sont hypoallergéniques et testés dermatologiquement. L'adhésif médical doux convient même aux peaux les plus sensibles. En cas de doute, effectuez un test sur une petite zone 24h avant la première utilisation.</p>"
+          }
         }
       },
       "block_order": [
@@ -531,7 +538,8 @@
         "item_dtBGgg",
         "item_Np8DpE",
         "item_LD9C7z",
-        "item_yCECdE"
+        "item_yCECdE",
+        "item_tXqtLN"
       ],
       "settings": {
         "full_width": true,
