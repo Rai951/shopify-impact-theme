@@ -530,6 +530,13 @@
             "title": "J'ai la peau sensible, est-ce adapté ?",
             "content": "<p>Absolument ! Nos patchs sont hypoallergéniques et testés dermatologiquement. L'adhésif médical doux convient même aux peaux les plus sensibles. En cas de doute, effectuez un test sur une petite zone 24h avant la première utilisation.</p>"
           }
+        },
+        "item_Ujn9Ji": {
+          "type": "item",
+          "settings": {
+            "title": "Sur quelles zones puis-je les utiliser ?",
+            "content": "<p>GlowPatch est efficace sur toutes les zones : ventre, hanches, cuisses, bras, fessiers... Vous pouvez utiliser plusieurs patchs simultanément sur différentes zones pour un traitement global.</p>"
+          }
         }
       },
       "block_order": [
@@ -539,7 +546,8 @@
         "item_Np8DpE",
         "item_LD9C7z",
         "item_yCECdE",
-        "item_tXqtLN"
+        "item_tXqtLN",
+        "item_Ujn9Ji"
       ],
       "settings": {
         "full_width": true,
