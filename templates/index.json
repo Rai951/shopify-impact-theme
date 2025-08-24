@@ -537,6 +537,13 @@
             "title": "Sur quelles zones puis-je les utiliser ?",
             "content": "<p>GlowPatch est efficace sur toutes les zones : ventre, hanches, cuisses, bras, fessiers... Vous pouvez utiliser plusieurs patchs simultanément sur différentes zones pour un traitement global.</p>"
           }
+        },
+        "item_fGhwC6": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la différence avec les autres patchs du marché ?",
+            "content": "<p>GlowPatch utilise une technologie brevetée de micro-encapsulation qui libère les actifs de façon progressive sur 8h. Nos patchs contiennent 3x plus d'actifs que la concurrence et utilisent un système d'adhésion révolutionnaire pour une meilleure pénétration.</p>"
+          }
         }
       },
       "block_order": [
@@ -547,7 +554,8 @@
         "item_LD9C7z",
         "item_yCECdE",
         "item_tXqtLN",
-        "item_Ujn9Ji"
+        "item_Ujn9Ji",
+        "item_fGhwC6"
       ],
       "settings": {
         "full_width": true,
