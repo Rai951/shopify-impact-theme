@@ -320,13 +320,14 @@
         "image_hrLJAC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copie_DDDde_Template_section_benefice.png",
+            "image": "shopify://shop_images/Copie_dlllle_Template_section_benefice.png",
             "alignment": "center",
             "max_width": 500
           }
         },
         "separator_P7Qjna": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "description_Ndw7EG": {
