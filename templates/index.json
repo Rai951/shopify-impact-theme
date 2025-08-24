@@ -520,8 +520,8 @@
         "item_yCECdE": {
           "type": "item",
           "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>Entre 5 et 8 jours ouvrés. Et la livraison est totalement gratuite.</p>"
+            "title": "Et si ça ne marche pas sur moi ?",
+            "content": "<p>Nous sommes tellement confiants en GlowPatch que nous offrons une garantie satisfait ou remboursé de 30 jours. Si vous n'êtes pas pleinement satisfaite, nous vous remboursons intégralement, sans condition ni justification à fournir.</p>"
           }
         }
       },
