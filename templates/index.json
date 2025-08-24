@@ -544,6 +544,13 @@
             "title": "Quelle est la différence avec les autres patchs du marché ?",
             "content": "<p>GlowPatch utilise une technologie brevetée de micro-encapsulation qui libère les actifs de façon progressive sur 8h. Nos patchs contiennent 3x plus d'actifs que la concurrence et utilisent un système d'adhésion révolutionnaire pour une meilleure pénétration.</p>"
           }
+        },
+        "item_rM9zhA": {
+          "type": "item",
+          "settings": {
+            "title": "Compatible avec la grossesse/allaitement ?",
+            "content": "<p>Par précaution, nous déconseillons l'utilisation pendant la grossesse et l'allaitement. Consultez votre médecin si vous avez des questions spécifiques.</p>"
+          }
         }
       },
       "block_order": [
@@ -555,7 +562,8 @@
         "item_yCECdE",
         "item_tXqtLN",
         "item_Ujn9Ji",
-        "item_fGhwC6"
+        "item_fGhwC6",
+        "item_rM9zhA"
       ],
       "settings": {
         "full_width": true,
