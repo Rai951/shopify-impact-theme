@@ -194,14 +194,14 @@
     "multi_column_wQV9nA": {
       "type": "multi-column",
       "blocks": {
-        "item_pTWGi7": {
+        "item_qcfnqV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/FlyAurssssa.png",
+            "image": "shopify://shop_images/15.png",
             "column_size": "3",
-            "title": "Camille",
-            "heading_tag": "h3",
-            "content": "<p>J'avais tout testé... crèmes, gélules, que dalle ! Là dès la première semaine ma peau était plus ferme. Mes collègues me demandent si j'ai maigri </p>",
+            "title": "Manon",
+            "heading_tag": "h4",
+            "content": "<p>Boulot assis = cellulite garantie ! J'étais complexée en maillot... 1 mois de patch sur les cuisses et ma peau d'orange a quasi disparu !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -246,14 +246,14 @@
             "link_style": "link"
           }
         },
-        "item_qcfnqV": {
+        "item_pTWGi7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/15.png",
+            "image": "shopify://shop_images/FlyAurssssa.png",
             "column_size": "3",
-            "title": "Manon",
-            "heading_tag": "h4",
-            "content": "<p>Boulot assis = cellulite garantie ! J'étais complexée en maillot... 1 mois de patch sur les cuisses et ma peau d'orange a quasi disparu !</p>",
+            "title": "Camille",
+            "heading_tag": "h3",
+            "content": "<p>J'avais tout testé... crèmes, gélules, que dalle ! Là dès la première semaine ma peau était plus ferme. Mes collègues me demandent si j'ai maigri </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -261,11 +261,11 @@
         }
       },
       "block_order": [
-        "item_pTWGi7",
+        "item_qcfnqV",
         "item_gQMx4f",
         "item_TCMWHJ",
         "item_3hqgHF",
-        "item_qcfnqV"
+        "item_pTWGi7"
       ],
       "settings": {
         "full_width": true,
