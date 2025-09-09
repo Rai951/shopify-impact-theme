@@ -15,13 +15,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_1.webp",
-            "mobile_image": "shopify://shop_images/2_2.webp",
+            "image": "shopify://shop_images/Ajouterff_un_titre.png",
+            "mobile_image": "shopify://shop_images/Ajouterff_un_titre.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "La Révolution Silencieuse Qui Transforme Votre Corps",
+            "title": "",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
